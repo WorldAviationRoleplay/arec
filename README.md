@@ -1,2 +1,2 @@
-## Welcome to WARPUS
-This is the WARP United States Division's website.
+## Welcome to arec
+This is the WARP European Division's website.
